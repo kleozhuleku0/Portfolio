@@ -51,7 +51,7 @@ header a:hover {
 }
 
 nav {
-    position: absolute;
+    position: fixed;
     top: 20px;
     width: 100%;
     display: flex;
